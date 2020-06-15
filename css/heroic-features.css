@@ -10,3 +10,7 @@ body {
 .faded {
   color: #e0e0e098;
 }
+
+.shadowed {
+  box-shadow: 0.5px 0.5px 10px black;
+}
